@@ -7,6 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Original Repository 
+The original repository can be found on my teammates page: https://github.com/wynnebarsanti/Pomodoro-App 
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
