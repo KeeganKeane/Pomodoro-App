@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Purpose 
+  A React App created for the HackCville Launch program that logs a user's activity over 25 minute time intervals, following the Pomodoro Technique.
+
 ## Available Scripts
 
 In the project directory, you can run:
